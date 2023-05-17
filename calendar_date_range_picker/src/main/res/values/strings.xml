@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="empty_date_text">10</string>
+    <string name="todo">TODO</string>
+    <string name="select_date">Select Date</string>
+    <string name="mm_dd_yyyy_mm_dd_yyyy">mm/dd/yyyy - mm/dd/yyyy</string>
+    <string name="s">S</string>
+    <string name="m">M</string>
+    <string name="t">T</string>
+    <string name="w">W</string>
+    <string name="f">F</string>
+</resources>
